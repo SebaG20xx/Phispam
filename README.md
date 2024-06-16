@@ -17,7 +17,7 @@ El script realiza las siguientes acciones:
 1. **Clonar el repositorio**: Clona este repositorio en tu máquina local.
     ```bash
     git clone https://github.com/SebaG20xx/Phispam.git
-    cd phispam
+    cd Phispam
     ```
 
 2. **Instalar los requisitos**: Instala los paquetes de Python necesarios.
